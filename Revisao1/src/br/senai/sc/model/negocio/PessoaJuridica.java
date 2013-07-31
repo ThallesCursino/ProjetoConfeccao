@@ -5,7 +5,8 @@
 package br.senai.sc.model.negocio;
 
 /**
- *
+ * Classe que representa as pessoas juridicas dos sistemas
+ * @version 1.0 31/07/13
  * @author thalles_cardin
  */
 public class PessoaJuridica {
@@ -40,7 +41,5 @@ public class PessoaJuridica {
     public void setNomeFantasia(String nomeFantasia) {
         this.nomeFantasia = nomeFantasia;
     }
-   
-   
     
 }
